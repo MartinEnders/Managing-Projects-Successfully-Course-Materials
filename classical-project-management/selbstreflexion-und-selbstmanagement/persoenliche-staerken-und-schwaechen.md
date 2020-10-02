@@ -1,0 +1,2 @@
+# Persönliche Stärken und Schwächen
+
