@@ -2,6 +2,10 @@
 
 * [Initial page](README.md)
 
+## Kurseinführung
+
+* [Kursaufbau und Einführung](kurseinfuehrung/kursaufbau-und-einfuehrung.md)
+
 ## Classical Project Management
 
 * [Einführung](classical-project-management/einfuehrung.md)
