@@ -10,6 +10,8 @@
   * [Wertesysteme](classical-project-management/selbstreflexion-und-selbstmanagement/wertesysteme.md)
   * [Persönliche Stärken und Schwächen](classical-project-management/selbstreflexion-und-selbstmanagement/persoenliche-staerken-und-schwaechen.md)
   * [Arbeitsorganisation und Priorisierung](classical-project-management/selbstreflexion-und-selbstmanagement/arbeitsorganisation-und-priorisierung.md)
+  * [Umgang mit Stress](classical-project-management/selbstreflexion-und-selbstmanagement/umgang-mit-stress.md)
+  * [Persönliches Lernen](classical-project-management/selbstreflexion-und-selbstmanagement/persoenliches-lernen.md)
 
 ## Agile Project Management with SCRUM
 
